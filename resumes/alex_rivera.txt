@@ -1,0 +1,6 @@
+Alex Rivera
+Software Engineer
+
+5 years of professional experience building frontend and full-stack applications.
+Skills: React, TypeScript, Node.js, AWS, REST APIs, Docker, Git.
+Built accessible customer dashboards and collaborated with design and product teams.

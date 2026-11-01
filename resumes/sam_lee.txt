@@ -1,0 +1,6 @@
+Sam Lee
+Frontend Developer
+
+2 years of experience creating responsive web applications.
+Skills: React, JavaScript, HTML, CSS, Git.
+Delivered reusable UI components and improved page performance.

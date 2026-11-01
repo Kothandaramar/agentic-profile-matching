@@ -1,0 +1,6 @@
+Jordan Kim
+Backend Engineer
+
+6 years of professional experience building data-intensive services.
+Skills: Python, Django, PostgreSQL, AWS, Docker, Git.
+Designed REST APIs, automated tests, and production database migrations.
